@@ -8,13 +8,18 @@ You reached a bonfire, you can rest here!</h2>
 <p> I'm studying and improving my skills at Gama Academy</p>
 <hr>
 <h4>Skills:</h4>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="36 heigt="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="36 heigt="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="36 heigt="36" />
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="36" title="Python" />
-</p>
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+<br>
+<br>
 
 <p><img align="left" style="display:block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusantonello&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="viniciusantonello" /></p> 
 
