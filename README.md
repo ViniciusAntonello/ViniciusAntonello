@@ -4,7 +4,7 @@
 You reached a bonfire, you can rest here!</h2>
 
 <h3>My name is Vinicius Antonello, but you can call me Vini or Vi.</h3>
-<p>Right now I am in a career transition. Leaving the engineering and aiming to become a Full Stack Developer!</p>
+<p>Right now I am in a career transition. Leaving engineering and aiming to become a Full Stack Developer!</p>
 <p> I'm studying and improving my skills at Gama Academy</p>
 <hr>
 <h4>Skills:</h4>
