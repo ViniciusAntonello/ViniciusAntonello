@@ -36,5 +36,5 @@ You reached a bonfire, you can rest here!</h2>
 <a href="https://www.linkedin.com/in/viniciusantonello/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="55" title="LinkedIn" alt="lvzaLinkedin"/></a>
 <a href="https://wa.me/5519999196789" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="55" title="WhatsApp" alt="lvzawhats"/></a>
 <a href="mailto: antonello.luis@gmail.com" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="55" title="Gmail" alt="lvzamail"/></a>
-<a href="https://drive.google.com/file/d/1tWSfNzSF8RAHwHFkE9dlHnIP5pGndd-0/view?usp=sharing" target'_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/pdf.svg" width="55" title="CV - Luis Vinicius Zutin Antonello" alt="CV"/></a>
+<a href="\https://drive.google.com/file/d/1tWSfNzSF8RAHwHFkE9dlHnIP5pGndd-0/view?usp=sharing" target'_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/pdf.svg" width="55" title="CV - Luis Vinicius Zutin Antonello" alt="CV"/></a>
 </p>
